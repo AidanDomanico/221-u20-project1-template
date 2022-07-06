@@ -1,5 +1,9 @@
 body {
-	
+	background-image: url("/images/CapybaraBG.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 700px;
+  background-size: cover;
 }
 
 #splash_title {
